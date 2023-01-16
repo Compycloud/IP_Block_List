@@ -1,0 +1,22 @@
+# China Beijing Tencent Cloud Computing (beijing) Co. Ltd
+193.112.0.0/16
+119.45.0.0/16
+# China Chengdu Chinanet Sichuan Province Network
+171.208.0.0/12
+# China Luoyang China Mobile Communications Corporation
+111.0.0.0/10
+# China Nanjing Chinanet Jiangsu Province Network
+180.96.0.0/10
+# China Shanghai China Unicom Shanghai Province Network
+210.0.0.0/8
+# China Shanghai Chinanet Shanghai Province Network
+180.160.0.0/16
+# China Shanghai Chinanet Shanghai Province Network
+180.163.0.0/16
+# China Xicheng Qu China Mobile Communications Corporation
+221.176.0.0/16
+# China Zhengzhou China Unicom Henan Province Network
+42.224.0.0/16
+# CHINANET Beijing province network
+# 220.181.77.162
+220.181.0.0/16
