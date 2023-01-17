@@ -31,3 +31,6 @@
 ## M247 Europe SRL
 # Port Scan
 185.200.118.47/32
+## Constantine Cybersecurity Ltd.
+# Port Scan
+87.236.176.87/32
