@@ -8,3 +8,6 @@
 61.221.35.27/32
 # Vodien Internet Solutions Pte Ltd 
 111.235.137.78/32
+# Google LLC
+# Bad Web Bot
+34.87.94.148/32
