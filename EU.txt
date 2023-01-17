@@ -19,3 +19,5 @@
 ## KeFF Networks Ltd
 # Port Scan
 193.189.100.232/32
+## UAB Host Baltic
+141.98.11.112/32
