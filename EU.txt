@@ -8,6 +8,7 @@
 161.35.236.158/32
 # WP
 207.154.250.8/32
+207.154.248.39/32
 ## Pptechnology Limited 
 2.57.122.90/32
 ## Amazon Data Services UK 
