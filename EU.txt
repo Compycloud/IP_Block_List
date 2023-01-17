@@ -14,3 +14,6 @@
 # Frantech Solutions
 # WP
 199.195.254.123/32
+# KeFF Networks Ltd
+# Port Scan
+193.189.100.232/32
