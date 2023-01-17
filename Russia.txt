@@ -1,3 +1,5 @@
-# Beget LLC
+## Beget LLC
 # WP
 5.101.156.0/24
+## Sprinthost.ru LLC 
+141.8.195.0/24
