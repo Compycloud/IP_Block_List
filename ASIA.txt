@@ -6,3 +6,5 @@
 114.119.158.0/24
 # Chunghwa Telecom Co. Ltd. 
 61.221.35.27/32
+# Vodien Internet Solutions Pte Ltd 
+111.235.137.78/32
