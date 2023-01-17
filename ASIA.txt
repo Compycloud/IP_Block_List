@@ -11,3 +11,6 @@
 # Google LLC
 # Bad Web Bot
 34.87.94.148/32
+# Amazon Data Services Singapore
+# Hacking
+52.221.83.120/32
