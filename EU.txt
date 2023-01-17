@@ -11,3 +11,6 @@
 # Reliable Communications s.r.o.
 # WP
 212.192.24.22/32
+# Frantech Solutions
+# WP
+199.195.254.123/32
