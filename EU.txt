@@ -8,3 +8,6 @@
 # Amazon Data Services UK 
 # WP
 18.133.60.229/32
+# Reliable Communications s.r.o.
+# WP
+212.192.24.22/32
