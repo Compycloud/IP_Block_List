@@ -21,7 +21,8 @@
 # Port Scan
 193.189.100.232/32
 ## UAB Host Baltic
-141.98.11.112/32
+# WP
+141.98.11.0/24
 ## Host Europe GmbH
 92.204.220.68/32
 ## OVH SAS
