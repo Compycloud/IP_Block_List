@@ -3,7 +3,6 @@
 210.150.110.242/36
 # Huawei International Pte. Ltd
 # Excessive crawling/scraping 114.119.158.18 114.119.128.19
-114.119.158.0/24
 114.119.128.0/18
 # Chunghwa Telecom Co. Ltd. 
 61.221.35.27/32
