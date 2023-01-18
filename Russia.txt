@@ -3,3 +3,6 @@
 5.101.156.0/24
 ## Sprinthost.ru LLC 
 141.8.195.0/24
+## Yandex LLC
+# Search Engine Spider
+5.255.253.0/24
