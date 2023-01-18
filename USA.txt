@@ -20,3 +20,7 @@
 ## Colocation America Corporation
 # WP
 199.182.169.191/32
+## Host Europe GmbH
+# WP
+92.204.134.137/32
+92.204.128.97/32
