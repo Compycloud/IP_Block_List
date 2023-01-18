@@ -43,3 +43,6 @@
 ## Constantine Cybersecurity Ltd.
 # Port Scan
 87.236.176.87/32
+## Register S.p.A.
+# WP 81.88.53.45 81.88.52.205
+81.88.52.0/23
