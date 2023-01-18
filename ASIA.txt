@@ -16,3 +16,6 @@
 52.221.83.120/32
 # OVH Hosting, Inc
 51.79.0.0/16
+# Thailand Uninet
+# WP
+202.29.236.140/32
