@@ -17,3 +17,6 @@
 ## Frantech Solutions
 # Hacking 45.61.184.58
 45.61.128.0/18
+## Colocation America Corporation
+# WP
+199.182.169.191/32
