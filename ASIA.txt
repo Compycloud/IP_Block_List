@@ -19,3 +19,5 @@
 # Thailand Uninet
 # WP
 202.29.236.140/32
+## Webico Company Limited
+103.130.216.0/22
