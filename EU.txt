@@ -55,3 +55,6 @@
 ## France L'ile aux surfers s.a.r.l.
 # Brute-Force
 217.113.194.0/24
+## IONOS SE
+# Brute-Force
+212.227.176.155/32
