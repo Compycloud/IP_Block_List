@@ -41,3 +41,7 @@
 ## Tencent Cloud Computing (Beijing) Co. Ltd. 
 # 124.221.186.82
 124.220.0.0/14
+## ChinaNet Chongqing Province Network 
+219.151.128.0/17
+219.152.0.0/24
+219.153.0.0/24
