@@ -33,3 +33,5 @@
 ## Hostinger International Limited
 # WP
 217.21.66.237/32
+## Telus Communications Inc.
+173.183.113.57/32
