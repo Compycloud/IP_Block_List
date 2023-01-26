@@ -35,3 +35,6 @@
 217.21.66.237/32
 ## Telus Communications Inc.
 173.183.113.57/32
+## 1337 Services GmbH
+# Brute-Force
+45.138.16.66/32
