@@ -6,4 +6,4 @@
 46.148.32.0/20
 ## Mobile Communication Company of Iran PLC
 # MAIL 5.213.243.37
-5.213.0.0/24
+5.213.0.0/16
