@@ -21,3 +21,6 @@
 202.29.236.140/32
 ## Webico Company Limited
 103.130.216.0/22
+## KDDI Web Communications Inc. 
+# MAIL
+150.60.249.146/32
