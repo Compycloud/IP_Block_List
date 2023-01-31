@@ -24,3 +24,6 @@
 ## KDDI Web Communications Inc. 
 # MAIL
 150.60.249.146/32
+## Bharti Airtel Ltd.
+# MAIL 122.187.230.132
+122.187.0.0/16
