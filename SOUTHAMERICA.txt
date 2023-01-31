@@ -1,2 +1,5 @@
 ## Locaweb Servicos de Internet S/A
 191.252.7.152/32
+## CTC. Corp S.A.
+# MAIL
+190.171.169.139/32
