@@ -39,3 +39,6 @@
 ## DigitalOcean LLC
 # 139.59.26.209
 139.59.16.0/20
+## Software Technology Parks of India
+# 203.129.232.6
+203.129.224.0/19
