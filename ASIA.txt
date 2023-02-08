@@ -42,3 +42,6 @@
 ## Software Technology Parks of India
 # 203.129.232.6
 203.129.224.0/19
+## PT Aplikanusa Lintasarta
+# MAIL 182.23.37.203
+182.23.0.0/17
