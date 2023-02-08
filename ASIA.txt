@@ -36,3 +36,6 @@
 ## SK Broadband Co Ltd 
 # MAIL 117.123.14.9
 117.123.0.0/16
+## DigitalOcean LLC
+139.59.16.0/20
+139.59.16.0
