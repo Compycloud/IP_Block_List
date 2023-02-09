@@ -85,3 +85,9 @@
 ## ChinaNet Zhejiang Province Network
 # 36.113.178.151
 36.96.0.0/17
+## China Unicom Shanghai Network
+# MAIL 58.247.49.115
+58.247.49.112
+58.247.49.113
+58.247.49.114
+58.247.49.115
