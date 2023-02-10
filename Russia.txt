@@ -12,3 +12,6 @@
 ## LLC Company Interlan Communications
 # Hack 109.237.98.53
 109.237.96.0/22
+## OJSC North-West Telecom
+# MAIL 95.55.222.62
+95.55.192.0/19
