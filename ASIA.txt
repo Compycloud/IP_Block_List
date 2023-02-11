@@ -45,3 +45,6 @@
 ## PT Aplikanusa Lintasarta
 # MAIL 182.23.37.203
 182.23.0.0/17
+## PT Fiber Indonesia Transnet
+# MAIL 103.169.238.242
+103.169.238.0/23
