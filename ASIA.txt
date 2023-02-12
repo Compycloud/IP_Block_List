@@ -48,3 +48,6 @@
 ## PT Fiber Indonesia Transnet
 # MAIL 103.169.238.242
 103.169.238.0/23
+## KT Corporation
+# MAIL 211.34.150.133
+211.34.148.0/22
