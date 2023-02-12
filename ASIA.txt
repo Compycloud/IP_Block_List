@@ -57,3 +57,5 @@
 ## China Mobile Communications Corporation
 # 120.245.61.220
 120.192.0.0/16
+## Vietnam Posts and Telecommunications Group
+144.126.223.177/32
