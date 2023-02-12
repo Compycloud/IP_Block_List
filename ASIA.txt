@@ -54,3 +54,6 @@
 ## ChinaNet Shanghai Province Network
 # 101.227.1.196
 101.224.0.0/13
+## China Mobile Communications Corporation
+# 120.245.61.220
+120.192.0.0/16
