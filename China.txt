@@ -107,3 +107,6 @@
 ## ChinaNet Shanxi Province Network
 # 1.70.80.229
 1.68.0.0/14
+## China Unicom Henan Province Network
+# 42.236.10.125 42.236.10.114
+42.224.0.0/12
