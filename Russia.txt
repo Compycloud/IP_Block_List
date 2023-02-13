@@ -15,3 +15,6 @@
 ## OJSC North-West Telecom
 # MAIL 95.55.222.62
 95.55.192.0/19
+## Telefonica LLC
+# 194.110.203.42
+194.110.203.0/24
