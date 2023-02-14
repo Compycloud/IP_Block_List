@@ -18,3 +18,6 @@
 ## Telefonica LLC
 # 194.110.203.42
 194.110.203.0/24
+## Internet-Cosmos LLC
+# MAIL
+62.173.139.102/32
