@@ -113,3 +113,6 @@
 ## China Unicom Beijing Province Network
 # 111.207.155.211
 111.192.0.0/12
+## Henan Telecom Corporation
+# 1.192.241.41
+1.192.0.0/13
