@@ -51,6 +51,8 @@
 ## Tencent Cloud Computing (Beijing) Co. Ltd.
 # Hack 43.153.10.221
 43.153.10.221/32
+# Hack 43.130.144.143
+43.130.128.0/18
 ## Linode LLC
 # Hack 170.187.164.222
 170.187.128.0/17
