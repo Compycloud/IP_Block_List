@@ -69,3 +69,6 @@
 ## Institut Teknologi Del
 # 103.167.217.138
 103.167.217.0/24
+## Sri Lanka Telecom PLC
+# 203.94.76.101
+203.94.64.0/18
