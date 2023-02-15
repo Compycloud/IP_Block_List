@@ -88,3 +88,6 @@
 ## Zayo Group UK Limited
 # Hack 213.152.250.204
 213.152.224.0/19
+## Globe Development GmbH
+# 212.124.37.50
+212.124.32.0/19
