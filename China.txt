@@ -119,3 +119,6 @@
 ## Shenzhen Qianhai bird cloud computing Co. Ltd.
 # 43.226.34.233
 43.226.32.0/22
+## ChinaNet Shanxi (SN) Province Network
+# 117.33.227.207
+117.32.0.0/13
