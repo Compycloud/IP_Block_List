@@ -91,3 +91,6 @@
 ## Globe Development GmbH
 # 212.124.37.50
 212.124.32.0/19
+## Nimbus Hosting Ltd.
+# 93.113.111.100
+93.113.111.0/24
