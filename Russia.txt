@@ -21,3 +21,6 @@
 ## Internet-Cosmos LLC
 # MAIL
 62.173.139.102/32
+## Petersburg Internet Network Ltd.
+# 46.161.14.104
+46.161.14.0/23
