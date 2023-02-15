@@ -83,3 +83,5 @@
 ## HostGator.com LLC
 # 103.53.42.51
 103.53.40.0/22
+## Alibaba.com Singapore E-Commerce Private Limited
+149.129.53.192/32
