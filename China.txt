@@ -116,3 +116,6 @@
 ## Henan Telecom Corporation
 # 1.192.241.41
 1.192.0.0/13
+## Shenzhen Qianhai bird cloud computing Co. Ltd.
+# 43.226.34.233
+43.226.32.0/22
