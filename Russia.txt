@@ -1,6 +1,8 @@
 ## Beget LLC
 # WP
 5.101.156.0/24
+# 87.236.20.180
+87.236.20.0/24
 ## Sprinthost.ru LLC 
 141.8.195.0/24
 ## Yandex LLC
@@ -24,6 +26,3 @@
 ## Petersburg Internet Network Ltd.
 # 46.161.14.104
 46.161.14.0/23
-## Beget LLC
-# 87.236.20.180
-87.236.20.0/24
