@@ -125,3 +125,6 @@
 ## Shanghai Information Network Co. Ltd.
 # 103.13.245.181
 103.13.244.0/22
+## ChinaNet Jiangsu Province Network
+# 114.217.183.12
+114.216.0.0/13
