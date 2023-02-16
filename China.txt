@@ -122,3 +122,6 @@
 ## ChinaNet Shanxi (SN) Province Network
 # 117.33.227.207
 117.32.0.0/13
+## Shanghai Information Network Co. Ltd.
+# 103.13.245.181
+103.13.244.0/22
