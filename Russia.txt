@@ -24,3 +24,6 @@
 ## Petersburg Internet Network Ltd.
 # 46.161.14.104
 46.161.14.0/23
+## Beget LLC
+# 87.236.20.180
+87.236.20.0/24
