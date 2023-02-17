@@ -104,3 +104,6 @@
 ## Tripolis Webpower B.V.
 # MAIL 91.197.72.151
 91.197.72.0/22
+## myLoc managed IT AG
+# 93.186.192.69
+93.186.192.0/20
