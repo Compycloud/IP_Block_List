@@ -96,3 +96,5 @@
 ## P.D.R Solutions FZC
 # 216.10.249.10
 216.10.240.0/20
+## LG Dacom Corporation
+211.181.169.17/32
