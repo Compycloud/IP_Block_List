@@ -1,20 +1,25 @@
-# Elmedia Ltd
+## Microsoft Servers with no spam check
+40.92.107.60/32
+40.92.52.77/32
+40.92.98.15/32
+40.92.52.70/32
+## Elmedia Ltd
 # WP
 210.150.110.242/36
-# Huawei International Pte. Ltd
+## Huawei International Pte. Ltd
 # Excessive crawling/scraping 114.119.158.18 114.119.128.19
 114.119.128.0/18
-# Chunghwa Telecom Co. Ltd. 
+## Chunghwa Telecom Co. Ltd. 
 61.221.35.27/32
-# Vodien Internet Solutions Pte Ltd 
+## Vodien Internet Solutions Pte Ltd 
 111.235.137.78/32
-# Google LLC
+## Google LLC
 # Bad Web Bot
 34.87.94.148/32
-# Amazon Data Services Singapore
+## Amazon Data Services Singapore
 # Hacking
 52.221.83.120/32
-# OVH Hosting, Inc
+## OVH Hosting, Inc
 51.79.0.0/16
 # Thailand Uninet
 # WP
