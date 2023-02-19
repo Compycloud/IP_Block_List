@@ -131,3 +131,6 @@
 ## Aliyun Computing Co. Ltd
 # 39.98.156.134
 39.96.0.0/13
+## ChinaNet Guangdong Province Network
+# 183.13.200.241
+183.0.0.0/10
