@@ -6,3 +6,5 @@
 ## CanTV NET.
 # 200.44.190.194
 200.44.160.0/19
+## Television Internacional S.A. de C.V.
+201.173.170.121/16
