@@ -109,3 +109,5 @@
 93.186.192.0/20
 ## Telepoint Ltd
 78.128.76.214/32
+## Inulogic Virtual Private Servers
+185.81.157.235/32
