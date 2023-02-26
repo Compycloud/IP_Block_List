@@ -100,3 +100,6 @@
 173.208.243.156/32
 ## Scala Hosting LLC
 209.142.64.242/32
+## Proofpoint Inc
+# Spam Proxy
+35.89.44.36/32
