@@ -124,3 +124,6 @@
 91.199.73.164/32
 ## CSLOXINFO IDC
 27.254.66.44/32
+## Jian Hua Foundation Ltd - Mongkok Harbour Centre
+# 59.148.217.154
+59.148.217.0/24
