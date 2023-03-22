@@ -104,3 +104,5 @@
 ## Proofpoint Inc
 # Spam Proxy
 35.89.44.36/32
+## Hosting Solution Ltd.
+162.248.224.0/21
