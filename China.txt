@@ -134,3 +134,6 @@
 ## ChinaNet Guangdong Province Network
 # 183.13.200.241
 183.0.0.0/10
+## Diyixian.com Limited
+# 152.104.9.12
+152.104.9.0/24
