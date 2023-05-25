@@ -12,6 +12,9 @@
 ## China Shanghai Chinanet Shanghai Province Network
 180.160.0.0/16
 180.163.0.0/16
+## China Shanghai Shanghai Ucloud Information Technology Company Limited 
+# 106.75.136.74
+106.75.0.0/16
 # China Xicheng Qu China Mobile Communications Corporation
 221.176.0.0/16
 221.232.0.0/14
