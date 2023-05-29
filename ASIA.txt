@@ -130,3 +130,5 @@
 ## Jian Hua Foundation Ltd - Mongkok Harbour Centre
 # 59.148.217.154
 59.148.217.0/24
+## Aceville Pte.Ltd.
+43.156.137.147/24
