@@ -7,3 +7,5 @@
 ## Mobile Communication Company of Iran PLC
 # MAIL 5.213.243.37
 5.213.0.0/16
+## NetInternet Bilisim Teknolojileri AS
+89.252.141.18/24
