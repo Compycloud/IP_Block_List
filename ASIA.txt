@@ -134,3 +134,6 @@
 43.156.137.147/24
 ## DataCamp Limited
 156.146.56.106/24
+## Tencent Cloud Computing (Beijing) Co. Ltd.
+# 43.153.219.224
+43.153.192.0/18
