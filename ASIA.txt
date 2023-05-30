@@ -137,3 +137,6 @@
 ## Tencent Cloud Computing (Beijing) Co. Ltd.
 # 43.153.219.224
 43.153.192.0/18
+## Rhino Cloud Ltd
+# 45.140.91.178
+45.140.88.0/22
