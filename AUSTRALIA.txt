@@ -1,2 +1,4 @@
 ## AAPT Limited
 203.174.140.102/32
+## Amazon Technologies Inc.
+52.64.253.61/24
