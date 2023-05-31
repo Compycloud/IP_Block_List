@@ -8,3 +8,6 @@
 200.44.160.0/19
 ## Television Internacional S.A. de C.V.
 201.173.170.121/16
+## Leandro Goncalves de Amarante
+# 177.53.141.237
+177.53.141.236/30
