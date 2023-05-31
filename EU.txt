@@ -137,3 +137,6 @@
 86.48.28.141/24
 ## Fasthosts Internet Limited
 109.228.46.215/24
+## Hetzner Online GmbH
+# 65.108.96.102
+65.108.0.0/16
