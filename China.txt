@@ -143,3 +143,6 @@
 ## Beijing Sanxin Times Technology Co. Ltd
 # 118.192.100.4
 118.192.0.0/17
+## China Mobile Communications Corporation
+# 183.236.222.120
+183.224.0.0/12
