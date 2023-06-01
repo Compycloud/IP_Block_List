@@ -140,3 +140,6 @@
 ## Diyixian.com Limited
 # 152.104.9.12
 152.104.9.0/24
+## Beijing Sanxin Times Technology Co. Ltd
+# 118.192.100.4
+118.192.0.0/17
