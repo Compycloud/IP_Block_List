@@ -11,3 +11,6 @@
 ## Leandro Goncalves de Amarante
 # 177.53.141.237
 177.53.141.236/30
+## Locaweb Servicos de Internet S/A
+# 191.252.184.157
+191.252.0.0/16
