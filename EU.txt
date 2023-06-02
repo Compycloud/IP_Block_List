@@ -152,3 +152,5 @@
 ## Eurovolt Spolka Z Ograniczona Odpowiedzialnoscia
 # 94.154.117.109
 94.154.117.0/24
+## Suisse Limited
+95.214.26.182/32
