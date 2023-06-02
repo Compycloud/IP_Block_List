@@ -123,3 +123,5 @@
 155.138.222.102/32
 ## AliCloud / Alibaba.com and Aliexpress.com
 47.252.31.123/32
+## IPXO
+191.101.41.132/32
