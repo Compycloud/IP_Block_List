@@ -14,3 +14,6 @@
 ## Locaweb Servicos de Internet S/A
 # 191.252.184.157
 191.252.0.0/16
+## Redehost Internet Ltda. 
+# 177.55.118.104
+177.55.96.0/19
