@@ -40,3 +40,5 @@
 ## MTS PJSC
 # 212.109.207.62
 212.109.207.0/24
+JSC Registrator of Domains 
+77.87.212.84/32
