@@ -17,3 +17,5 @@
 ## Redehost Internet Ltda. 
 # 177.55.118.104
 177.55.96.0/19
+## Entel Chile S.A.
+186.67.71.252/32
