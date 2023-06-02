@@ -146,3 +146,6 @@
 194.87.151.0/24
 ## Ownit Broadband AB
 37.46.162.202/32
+## Eurovolt Spolka Z Ograniczona Odpowiedzialnoscia
+# 94.154.117.109
+94.154.117.0/24
