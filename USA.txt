@@ -141,3 +141,5 @@ Liquid Web L.L.C
 209.126.25.104/32
 ## Amazon Data Services NoVa
 3.229.122.6/32
+## Microsoft Corporation
+20.163.76.127/32
