@@ -131,6 +131,8 @@
 ## ChinaNet Jiangsu Province Network
 # 114.217.183.12
 114.216.0.0/13
+# 218.92.0.56
+218.92.0.0/16
 ## Aliyun Computing Co. Ltd
 # 39.98.156.134
 39.96.0.0/13
