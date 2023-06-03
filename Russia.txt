@@ -45,3 +45,6 @@ JSC Registrator of Domains
 ## Beget LLC
 # 5.101.157.56
 5.101.157.0/24
+## Mega LLC
+# 62.122.184.124
+62.122.184.0/24
