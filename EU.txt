@@ -165,3 +165,5 @@
 ## Orange Romania Communication S.A
 # 109.99.162.15
 109.99.0.0/16
+## Amazon Data Services UK
+18.130.150.108/32
