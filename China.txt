@@ -151,3 +151,8 @@
 ## China Unicom Jilin Province Network 
 # 175.17.66.230
 175.16.0.0/13
+## ChinaNet Shanxi Province Network
+# 110.178.32.100
+110.177.0.0/16
+110.178.0.0/16
+110.179.0.0/16
