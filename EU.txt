@@ -167,3 +167,5 @@
 109.99.0.0/16
 ## Amazon Data Services UK
 18.130.150.108/32
+## Alpha Strike Labs GmbH 
+45.83.66.27/32
