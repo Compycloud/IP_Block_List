@@ -169,3 +169,6 @@
 ## KT Corporation
 # 59.15.154.2
 59.0.0.0/11
+## Seokyung Cable Television Co. Ltd. 
+# 182.31.62.100
+182.31.0.0/16
