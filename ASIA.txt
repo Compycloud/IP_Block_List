@@ -175,3 +175,6 @@
 ## Seokyung Cable Television Co. Ltd. 
 # 182.31.62.100
 182.31.0.0/16
+## Pakistan Telecommunication Company Limited
+# 119.152.245.251
+119.152.245.0/24
