@@ -178,3 +178,5 @@
 ## Pakistan Telecommunication Company Limited
 # 119.152.245.251
 119.152.245.0/24
+## GoDaddy.com LLC
+68.178.163.252/32
