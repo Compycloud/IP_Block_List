@@ -145,6 +145,8 @@ Liquid Web L.L.C
 3.229.122.6/32
 13.52.248.229/32
 13.52.185.73/32
+## Amazon.com Inc.
+54.208.98.159/32
 ## Microsoft Corporation
 20.163.76.127/32
 ## Unified Layer
