@@ -9,3 +9,6 @@
 5.213.0.0/16
 ## NetInternet Bilisim Teknolojileri AS
 89.252.141.18/24
+## TurkNet Iletisim Hizmetleri A.S.
+# 212.154.7.246
+212.154.7.0/24
