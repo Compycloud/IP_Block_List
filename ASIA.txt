@@ -184,3 +184,6 @@
 68.178.163.252/32
 ## PT. Datacomm Diangraha 
 103.73.125.126/32
+## Hostinger International Limited
+# 45.80.181.116
+45.80.180.0/22
