@@ -189,3 +189,5 @@
 ## Hostinger International Limited
 # 45.80.181.116
 45.80.180.0/22
+## Myanmar Technology Gateway Co. Ltd
+103.47.185.185/32
