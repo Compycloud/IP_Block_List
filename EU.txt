@@ -180,3 +180,6 @@
 185.81.157.51/32
 ## Inulogic Virtual Private Servers
 185.81.157.51/32
+## Cubenode
+# 194.35.43.175
+194.35.43.0/24
