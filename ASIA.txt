@@ -154,6 +154,9 @@
 180.242.76.0/24
 # 180.242.114.76
 180.242.114.0/24
+## PT Telekomunikasi Indonesia
+## 36.94.60.250
+36.94.48.0/20
 ## Google LLC
 35.186.156.93/32
 ## ISHAN Netsol Pvt Ltd
