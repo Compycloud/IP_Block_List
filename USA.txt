@@ -153,6 +153,7 @@ Liquid Web L.L.C
 54.208.98.159/32
 ## Microsoft Corporation
 20.163.76.127/32
+52.147.201.92/32
 ## Unified Layer
 # Bot network
 # 173.254.64.10
