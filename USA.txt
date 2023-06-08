@@ -168,3 +168,5 @@ Liquid Web L.L.C
 4.1.229.86/32
 ## Qwest Communications Company LLC
 209.201.15.190/32
+## Telus Communications Inc
+108.181.106.211/32
