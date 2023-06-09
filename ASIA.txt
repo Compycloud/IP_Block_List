@@ -157,6 +157,9 @@
 ## PT Telekomunikasi Indonesia
 ## 36.94.60.250
 36.94.48.0/20
+## PT Emerio Indonesia
+# 103.121.148.210
+103.121.148.0/23
 ## Google LLC
 35.186.156.93/32
 ## ISHAN Netsol Pvt Ltd
