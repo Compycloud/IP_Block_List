@@ -48,3 +48,6 @@ JSC Registrator of Domains
 ## Mega LLC
 # 62.122.184.124
 62.122.184.0/24
+## Rusonyx Ltd.
+# 89.253.255.161
+89.253.248.0/21
