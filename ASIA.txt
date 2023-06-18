@@ -204,3 +204,6 @@
 ## Bharat Sanchar Nigam Limited
 # 117.244.254.50
 117.244.240.0/20
+## Emax Global Media Pvt. Ltd.
+# 137.59.53.42
+137.59.53.0/24
