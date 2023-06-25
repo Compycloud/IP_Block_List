@@ -145,6 +145,9 @@
 ## Beijing Sanxin Times Technology Co. Ltd
 # 118.192.100.4
 118.192.0.0/17
+## Beijing Dicai Network Communications Technology Co. Ltd.
+# 43.226.238.250
+43.226.236.0/20
 ## China Mobile Communications Corporation
 # 183.236.222.120
 183.224.0.0/12
