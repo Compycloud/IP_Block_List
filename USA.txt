@@ -185,3 +185,5 @@ Liquid Web L.L.C
 ## Mailgun Technologies Inc.
 # 69.72.39.184
 69.72.32.0/20
+# 141.193.32.12
+141.193.32.0/23
