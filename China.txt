@@ -41,9 +41,11 @@
 218.75.70.197/32
 218.75.70.198/32
 218.75.70.199/32
-## Tencent Cloud Computing (Beijing) Co. Ltd. 
+## Tencent Cloud Computing (Beijing) Co. Ltd.
 # 124.221.186.82
 124.220.0.0/14
+# 43.142.192.90
+43.142.0.0/16
 ## ChinaNet Chongqing Province Network 
 219.151.128.0/17
 219.152.0.0/16
@@ -162,4 +164,4 @@
 110.178.0.0/16
 110.179.0.0/16
 ## HK Cable TV Ltd
-# 125.59.205.138
+125.59.205.138/32
