@@ -51,3 +51,6 @@ JSC Registrator of Domains
 ## Rusonyx Ltd.
 # 89.253.255.161
 89.253.248.0/21
+## Uzbektelekom Joint Stock Company
+# 185.74.4.143
+185.74.4.0/22
