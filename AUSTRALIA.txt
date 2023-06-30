@@ -2,3 +2,6 @@
 203.174.140.102/32
 ## Amazon Technologies Inc.
 52.64.253.61/24
+## Telefonica Brasil S.A
+# 201.86.114.103
+201.86.0.0/16
