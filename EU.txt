@@ -194,3 +194,5 @@
 ## Neterra Servers Infrastructure
 # 87.121.113.210
 87.121.112.0/23
+## Scaleway
+62.210.228.33/32
