@@ -210,3 +210,5 @@
 ## Emax Global Media Pvt. Ltd.
 # 137.59.53.42
 137.59.53.0/24
+## Vodien Internet Solutions Pte Ltd
+103.15.234.245/32
