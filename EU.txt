@@ -200,3 +200,5 @@
 35.203.210.241/32
 ## FiberXpress BV
 94.102.61.54/32
+## Telefonica Germany GmbH & Co. OHG
+46.114.93.8/32
