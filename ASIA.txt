@@ -213,3 +213,5 @@
 137.59.53.0/24
 ## Vodien Internet Solutions Pte Ltd
 103.15.234.245/32
+## CAT Telecom Public Company Ltd
+122.155.187.25/32
