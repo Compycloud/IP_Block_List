@@ -192,3 +192,6 @@
 103.15.234.245/32
 ## CAT Telecom Public Company Ltd
 122.155.187.25/32
+## PT. Cyberindo Mega Persada
+# 116.204.249.8
+116.204.248.0/22
