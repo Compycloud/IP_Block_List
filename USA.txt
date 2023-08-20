@@ -1,0 +1,200 @@
+## Internap Holding LLC 
+66.151.55.0/24
+## Academy of Internet Research Limited Liability Company
+# Port Scan 104.156.155.14
+104.156.155.0/24
+## IONOS Inc
+74.208.58.80/32
+## DigitalOcean LLC
+# Bad Web Bot
+64.227.97.195/32
+# Brute-Force
+165.227.76.114/32
+# Port Scan
+161.35.239.159/32
+164.92.76.75/32
+142.93.64.15/32
+198.211.96.79/32
+137.184.74.35/32
+143.110.159.86/32
+## Zenlayer Inc 
+128.14.232.187/32
+## Frantech Solutions
+# Hacking 45.61.184.58 45.61.187.99
+45.61.128.0/18
+## Colocation America Corporation
+# WP
+199.182.169.191/32
+## Host Europe GmbH
+# WP
+92.204.134.137/32
+92.204.128.97/32
+## WebsiteWelcome.com
+# Mail 192.185.64.36
+192.185.0.0/16
+## AliCloud
+# WP 47.88.61.91
+47.88.0.0/14
+## Hostinger International Limited
+# WP
+217.21.66.237/32
+## Telus Communications Inc.
+173.183.113.57/32
+## 1337 Services GmbH
+# Brute-Force
+45.138.16.66/32
+## Dmytro Ahrefs Pte Ltd
+# Web App Attack
+51.222.253.15/32
+## Castle Global
+# 64.124.8.46
+64.124.128.0/19
+64.124.184.0/22
+64.124.176.0/21
+64.124.160.0/20
+64.124.0.0/17
+## Tencent Cloud Computing (Beijing) Co. Ltd.
+# Hack 43.153.10.221
+43.153.10.221/32
+# Hack 43.130.144.143
+43.130.128.0/18
+## Linode LLC
+# Hack 170.187.164.222
+170.187.128.0/17
+## Frantech Solutions
+# Hack 205.185.116.25 209.141.33.65
+205.185.112.0/20
+209.141.32.0/19
+## Makut Investments
+# 185.196.220.26
+185.196.220.0/24
+## Dedioutlet LLC
+# Hack 68.69.184.202
+68.69.184.0/22
+## Contabo Inc.
+# Hack 209.126.86.35
+209.126.80.0/21
+## GoDaddy.com LLC
+# 198.71.235.50
+198.71.235.50/32
+104.238.83.196/32
+## OVH Hosting Inc.
+144.217.158.211/32
+135.148.149.136/32
+178.33.242.143/32
+192.99.151.67/32
+## Unified Layer
+162.241.216.173/32
+74.220.216.123/32
+69.89.30.42/32
+162.240.71.5/32
+## Wowrack.com
+# 216.244.66.196
+# 216.244.66.250
+216.244.64.0/19
+## Eonix Corporation
+23.231.32.120/32
+## 986 Media
+50.3.136.66/32
+## Web.com
+# 209.17.115.113
+209.17.112.0/22
+209.17.115.0/23
+209.17.116.0/23
+## Media Temple Inc.
+205.186.137.221/32
+## Level 3 Communications Inc.
+4.16.217.38/32
+4.17.224.134/32
+## Wholesale Internet Inc.
+173.208.243.156/32
+## Scala Hosting LLC
+209.142.64.242/32
+## Proofpoint Inc
+# Spam Proxy
+35.89.44.36/32
+## Hosting Solution Ltd.
+162.248.224.0/21
+## InMotion Hosting, Inc.
+# 216.194.175.42
+216.194.160.0/20
+## IONOS Inc.
+# 74.208.41.95
+74.208.0.0/16
+## Squarespace Inc.
+198.185.159.145/24
+## GoDaddy.com LLC
+198.71.224.24/24
+## DigitalOcean LLC
+162.243.186.177/24
+## Vultr Holdings LLC
+155.138.222.102/32
+## AliCloud / Alibaba.com and Aliexpress.com
+47.252.31.123/32
+## IPXO
+191.101.41.132/32
+## Microsoft Corporation
+20.163.76.127/32
+52.147.201.92/32
+## InMotion Hosting Inc.
+107.161.23.28/32
+## HostDime.com Inc.
+107.190.132.194/32
+## Mochanin Corp.
+204.93.196.26/32
+## Cloudaccess.net LLC
+104.37.86.31/32
+## Servermania Inc/Server Mania 
+38.62.224.90/32
+Liquid Web L.L.C
+209.126.25.104/32
+64.91.237.134/32
+## Amazon Data Services NoVa
+3.229.122.6/32
+13.52.248.229/32
+13.52.185.73/32
+## Amazon.com Inc.
+3.101.26.124/32
+54.208.98.159/32
+## Microsoft Corporation
+20.163.76.127/32
+52.147.201.92/32
+## Unified Layer
+# Bot network
+# 173.254.64.10
+173.254.0.0/17
+# 50.87.249.225
+50.87.0.0/16
+162.214.105.251/32
+## Teraflex Inc
+68.66.164.26/32
+## Level 3 Communications Inc.
+4.1.229.86/32
+## Qwest Communications Company LLC
+209.201.15.190/32
+## Telus Communications Inc
+108.181.106.211/32
+## New Dream Network LLC
+67.205.43.165/32
+## Hyonix LLC
+161.129.40.209/32
+## SingleHop LLC
+# 108.178.23.226
+108.178.0.0/18
+## ColoCrossing
+107.172.140.147/32
+## Mailgun Technologies Inc.
+# 69.72.39.184
+69.72.32.0/20
+# 141.193.32.12
+141.193.32.0/23
+## Rochelle Municipal Utilities
+204.8.162.53/32
+## InMotion Hosting Inc. 
+23.235.211.83/32
+## Unified Layer
+162.240.213.12/32
+162.144.44.235/32
+## Mailgun Technologies Inc.
+# 161.38.204.238
+161.38.192.0/20
