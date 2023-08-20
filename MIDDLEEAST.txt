@@ -14,3 +14,6 @@
 212.154.7.0/24
 ## The Constant Company LLC
 64.176.169.75/32
+## Parsian High Tech Company PJSC 
+# 185.88.153.229
+185.88.153.0/24
