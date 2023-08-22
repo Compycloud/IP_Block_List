@@ -8,6 +8,7 @@
 ## DigitalOcean LLC
 # Bad Web Bot
 64.227.97.195/32
+159.223.154.6/32
 # Brute-Force
 165.227.76.114/32
 # Port Scan
