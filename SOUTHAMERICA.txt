@@ -22,3 +22,6 @@
 ## Ativas Data Center S.A
 # 201.62.240.169
 201.62.240.0/20
+## Total Fibra Internet Eireli I
+# 189.127.173.52
+189.127.172.0/22
