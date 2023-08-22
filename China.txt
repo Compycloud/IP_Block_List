@@ -165,3 +165,6 @@
 110.179.0.0/16
 ## HK Cable TV Ltd
 125.59.205.138/32
+## Beijing Baidu Netcom Science and Technology Co. Ltd.
+# 120.48.112.141
+120.48.0.0/15
