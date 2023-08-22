@@ -25,3 +25,6 @@
 ## Total Fibra Internet Eireli I
 # 189.127.173.52
 189.127.172.0/22
+## Cooperativa de Electricidad Obras Y Servicios Publicos de Winifreda Ltd.
+# 190.105.190.62
+190.105.190.0/24
