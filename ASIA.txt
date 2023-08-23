@@ -205,3 +205,5 @@
 ## Taiwan Mobile Co. Ltd.
 # 101.13.0.43
 101.8.0.0/13
+## DigitalOcean
+143.198.193.235/32
