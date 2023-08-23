@@ -139,6 +139,7 @@
 ## Microsoft Corporation
 20.163.76.127/32
 52.147.201.92/32
+52.167.231.121/32
 40.119.40.5/32
 ## InMotion Hosting Inc.
 107.161.23.28/32
@@ -160,9 +161,6 @@ Liquid Web L.L.C
 ## Amazon.com Inc.
 3.101.26.124/32
 54.208.98.159/32
-## Microsoft Corporation
-20.163.76.127/32
-52.147.201.92/32
 ## Unified Layer
 # Bot network
 # 173.254.64.10
