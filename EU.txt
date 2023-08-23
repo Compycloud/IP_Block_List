@@ -232,5 +232,6 @@
 ## Ionis Group - Ionis Schools of Technology and Management SAS
 163.5.112.220/32
 ## Tamatiya EOOD
-78.128.114.70/32
-79.124.56.190/32
+# 78.128.114.70/32
+# 79.124.56.190/32
+79.124.56.0/24
