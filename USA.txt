@@ -139,6 +139,7 @@
 ## Microsoft Corporation
 20.163.76.127/32
 52.147.201.92/32
+40.119.40.5/32
 ## InMotion Hosting Inc.
 107.161.23.28/32
 ## HostDime.com Inc.
