@@ -224,3 +224,5 @@
 109.255.151.29/32
 ## Sergey Karpenko
 217.79.191.84/32
+## Network Management Ltd
+194.53.54.7/32
