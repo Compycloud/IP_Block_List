@@ -207,3 +207,5 @@
 101.8.0.0/13
 ## DigitalOcean
 143.198.193.235/32
+## Reliance Jio Infocomm Limited
+115.245.68.131/32
