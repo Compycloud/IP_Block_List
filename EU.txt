@@ -235,6 +235,8 @@
 # 78.128.114.70/32
 # 79.124.56.190/32
 79.124.56.0/24
+## Hetzner Online GmbH
+46.4.34.211/32
 ## Mikhail Tonkonog
 ## domaindiscount24.net
 194.28.226.36/32
