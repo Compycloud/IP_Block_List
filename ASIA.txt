@@ -203,10 +203,12 @@
 ## PT. Cyberindo Mega Persada
 # 116.204.249.8
 116.204.248.0/22
-## Taiwan Mobile Co. Ltd.
+## Taiwan Mobile Co. Ltd
 # 101.13.0.43
 101.8.0.0/13
 ## DigitalOcean
 143.198.193.235/32
 ## Reliance Jio Infocomm Limited
 115.245.68.131/32
+## Chunghwa Telecom Co. Ltd. 
+111.70.14.183/32
