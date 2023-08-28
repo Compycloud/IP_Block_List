@@ -227,6 +227,7 @@
 217.79.191.84/32
 ## Network Management Ltd
 194.53.54.7/32
+185.17.2.232/32
 ## Hostkey B.V.
 5.39.216.148/32
 ## Ionis Group - Ionis Schools of Technology and Management SAS
