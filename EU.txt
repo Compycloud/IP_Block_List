@@ -243,3 +243,5 @@
 194.28.226.36/32
 ## Host Europe GmbH
 85.25.210.122/32
+## Orange Polska Spolka Akcyjna
+212.244.181.140/32
