@@ -210,3 +210,5 @@ Liquid Web L.L.C
 50.31.98.130/32
 ## Host Boogie LLC
 192.34.64.244/32
+## OSO Grande Technologies Inc.
+192.150.253.139/32
