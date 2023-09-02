@@ -57,3 +57,6 @@ JSC Registrator of Domains
 ## Network Management Ltd
 # 185.174.136.76
 185.174.136.0/24
+## Limited Liability Company NTCOM
+# 93.189.42.136
+93.189.42.0/23
