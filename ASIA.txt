@@ -212,3 +212,5 @@
 115.245.68.131/32
 ## Chunghwa Telecom Co. Ltd. 
 111.70.14.183/32
+## PT. Exabytes Network Indonesia
+103.25.222.142/32
