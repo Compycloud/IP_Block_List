@@ -255,3 +255,6 @@
 94.103.9.117/32
 ## velia.net Internetdienste GmbH 
 151.106.17.234/32
+## K&K Kommunikationssysteme GmbH
+# 77.90.185.151
+77.90.185.0/24
