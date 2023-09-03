@@ -72,6 +72,8 @@
 ## KT Corporation
 # MAIL 211.34.150.133
 211.34.148.0/22
+# 112.186.241.102
+112.160.0.0/10
 ## ChinaNet Shanghai Province Network
 # 101.227.1.196
 101.224.0.0/13
