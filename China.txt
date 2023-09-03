@@ -170,4 +170,7 @@
 120.48.0.0/15
 ## ChinaNet Gansu Province Network
 # 118.182.32.16
-118.180.0.0/14 
+118.180.0.0/14
+## ChinaNet Qinghai Province Network
+# 125.72.150.250
+125.72.0.0/16
