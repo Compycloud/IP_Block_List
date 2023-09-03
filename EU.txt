@@ -258,3 +258,6 @@
 ## K&K Kommunikationssysteme GmbH
 # 77.90.185.151
 77.90.185.0/24
+## FiberXpress BV
+# 89.248.163.16
+89.248.163.0/24 
