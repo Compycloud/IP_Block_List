@@ -168,3 +168,6 @@
 ## Beijing Baidu Netcom Science and Technology Co. Ltd.
 # 120.48.112.141
 120.48.0.0/15
+## ChinaNet Gansu Province Network
+# 118.182.32.16
+118.180.0.0/14 
