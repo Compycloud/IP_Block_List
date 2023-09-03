@@ -253,3 +253,5 @@
 146.255.188.229/32
 ## FoxCloud LLP
 94.103.9.117/32
+## velia.net Internetdienste GmbH 
+151.106.17.234/32
