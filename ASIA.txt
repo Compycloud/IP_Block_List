@@ -221,3 +221,6 @@
 ## Maxis Broadband Sdn Bhd
 ## 121.120.208.84
 121.120.0.0/16
+## SMTP Outgoing Pool
+# 203.146.58.7
+203.146.58.0/16
