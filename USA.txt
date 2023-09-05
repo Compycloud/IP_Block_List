@@ -213,3 +213,5 @@ Liquid Web L.L.C
 192.34.64.244/32
 ## OSO Grande Technologies Inc.
 192.150.253.139/32
+## JSC Registrator of Domains
+77.87.213.13/32
