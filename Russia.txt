@@ -60,6 +60,8 @@ JSC Registrator of Domains
 ## Limited Liability Company NTCOM
 # 93.189.42.136
 93.189.42.0/23
+# 93.189.41.90
+93.189.40.0/23
 # Kaspersky Lab Switzerland GmbH
 # 93.159.230.87
 93.159.230.0/23
