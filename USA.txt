@@ -257,3 +257,6 @@ Liquid Web L.L.C
 ## New Dream Network LLC
 69.163.137.147/32
 69.163.224.107/32
+## The Shadow Server Foundation
+# 74.82.47.38
+74.82.0.0/18
