@@ -71,16 +71,12 @@
 # MAIL 103.169.238.242
 103.169.238.0/23
 ## KT Corporation
-# MAIL 211.34.150.133
+# 211.34.150.133
 211.34.148.0/22
 # 112.186.241.102
 112.160.0.0/10
-## ChinaNet Shanghai Province Network
-# 101.227.1.196
-101.224.0.0/13
-## China Mobile Communications Corporation
-# 120.245.61.220
-120.192.0.0/16
+# 183.109.148.44
+183.96.0.0/11
 ## Vietnam Posts and Telecommunications Group
 144.126.223.177/32
 ## Sakura Internet Inc.
