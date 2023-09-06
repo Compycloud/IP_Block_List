@@ -168,6 +168,8 @@ Liquid Web L.L.C
 ## A100 ROW GmbH
 3.79.29.115/32
 18.197.117.45/32
+## Amazon Technologies Inc.
+34.227.19.103/32
 ## Unified Layer
 # Bot network
 # 173.254.64.10
