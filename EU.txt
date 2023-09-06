@@ -296,3 +296,5 @@
 194.36.96.112/32
 ## Netia Telekom SA
 83.238.164.87/32
+## Krzysztof Jaskowski GLOBIT Internet Service Provider
+77.65.168.51/32
