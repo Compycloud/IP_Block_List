@@ -252,3 +252,5 @@ Liquid Web L.L.C
 24.97.202.21/32
 ## HostRoyale Technologies Pvt Ltd
 36.255.190.191/32
+# Eleanor R Fridley
+170.83.176.114/32
