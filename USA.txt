@@ -214,7 +214,8 @@ Liquid Web L.L.C
 ## OSO Grande Technologies Inc.
 192.150.253.139/32
 ## JSC Registrator of Domains
-77.87.213.13/32
+# 77.87.213.13/32
+77.87.213.0/24
 ## Cologix Inc
 209.123.145.30/32
 ## Censys Inc.
