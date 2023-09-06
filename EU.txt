@@ -12,6 +12,8 @@
 207.154.248.39/32
 ## Pptechnology Limited 
 2.57.122.90/32
+## Amazon Data Services Sweden
+13.48.48.73/32
 ## Amazon Data Services UK
 # WP
 18.133.60.229/32
