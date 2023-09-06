@@ -273,3 +273,5 @@
 31.222.0.204/32
 ## Frantech Solutions
 107.189.28.127/32
+## HostRoyale Technologies Pvt Ltd
+194.36.96.112/32
