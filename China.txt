@@ -177,3 +177,6 @@
 ## ChinaNet Guangdong Province Network
 # 113.116.153.45
 113.112.0.0/13
+## China Unicom Neimeng Province Network
+# 58.18.93.50
+58.18.0.0/16
