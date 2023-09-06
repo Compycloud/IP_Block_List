@@ -180,3 +180,6 @@
 ## China Unicom Neimeng Province Network
 # 58.18.93.50
 58.18.0.0/16
+## ChinaNet Sichuan Province Network
+# 182.138.158.30
+182.128.0.0/12
