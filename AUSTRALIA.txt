@@ -5,3 +5,5 @@
 ## Telefonica Brasil S.A
 # 201.86.114.103
 201.86.0.0/16
+## Campaign Monitor Pty Ltd
+203.55.21.145/32
