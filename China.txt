@@ -183,3 +183,6 @@
 ## ChinaNet Sichuan Province Network
 # 182.138.158.30
 182.128.0.0/12
+## ChinaNet Guangdong Province Network
+# 14.18.119.55
+14.16.0.0/12
