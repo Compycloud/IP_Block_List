@@ -278,3 +278,5 @@
 107.189.28.127/32
 ## HostRoyale Technologies Pvt Ltd
 194.36.96.112/32
+## Netia Telekom SA
+83.238.164.87/32
