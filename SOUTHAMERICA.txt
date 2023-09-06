@@ -30,3 +30,6 @@
 190.105.190.0/24
 ## Rodriguez Franco Y Cia S C S Organizacion Nacional de Comerc 
 186.155.230.170/32
+## WiCAM Corporation Ltd
+# 103.17.215.22
+103.17.215.0/24
