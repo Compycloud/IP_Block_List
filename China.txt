@@ -178,6 +178,9 @@
 ## ChinaNet Qinghai Province Network
 # 125.72.150.250
 125.72.0.0/16
+# 110.166.216.162
+110.166.0.0/16
+110.167.0.0/16
 ## ChinaNet Guangdong Province Network
 # 113.116.153.45
 113.112.0.0/13
