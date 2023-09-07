@@ -202,3 +202,6 @@
 ## China Mobile Communications Corporation
 # 120.245.61.220
 120.192.0.0/16
+## China Unicom Jiangsu Province Network
+# 112.84.178.25
+112.80.0.0/13
