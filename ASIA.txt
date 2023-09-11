@@ -242,3 +242,5 @@
 ## Global Network
 # 103.193.197.124
 103.193.197.0/24
+## Netcore Solutions Pvt Ltd
+202.162.238.38/32
