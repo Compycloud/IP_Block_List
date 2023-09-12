@@ -203,6 +203,8 @@ Liquid Web L.L.C
 141.193.32.0/23
 # 159.135.140.82
 159.135.128.0/11
+# 161.38.204.238
+161.38.192.0/20
 ## Rochelle Municipal Utilities
 204.8.162.53/32
 ## InMotion Hosting Inc. 
@@ -227,9 +229,6 @@ Liquid Web L.L.C
 # 192.163.216.96
 # 192.163.216.126
 192.163.216.0/16
-## Mailgun Technologies Inc.
-# 161.38.204.238
-161.38.192.0/20
 ## Liquid Web L.L.C
 67.225.226.157/32
 ## Google LLC
