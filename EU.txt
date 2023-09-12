@@ -15,6 +15,7 @@
 ## Amazon Data Services Sweden
 13.48.48.73/32
 ## Amazon Data Services UK
+3.8.137.163/32
 # WP
 18.133.60.229/32
 18.130.150.108/32
