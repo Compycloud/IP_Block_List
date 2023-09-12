@@ -68,3 +68,6 @@ JSC Registrator of Domains
 ## Registrator LLC
 # 77.87.212.29
 77.87.212.0/24
+## Home Internet Ltd
+# 46.66.164.51
+146.66.160.0/20
