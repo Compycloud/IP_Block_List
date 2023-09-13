@@ -39,3 +39,6 @@
 ## TV Azteca Sucursal Colombia
 # 186.179.100.0
 186.179.96.0/20
+## VipTurbo Comercio & Servicos de Informatica Ltda 
+# 191.36.149.136
+191.36.144.0/20
