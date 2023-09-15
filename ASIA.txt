@@ -249,3 +249,5 @@
 ## United Information Highway Co. Ltd. 
 # 103.40.132.19
 103.40.132.0/22
+## GMO Cloud K.K.
+211.1.227.5/32
