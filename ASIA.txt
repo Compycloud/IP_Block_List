@@ -251,3 +251,5 @@
 103.40.132.0/22
 ## GMO Cloud K.K.
 211.1.227.5/32
+## PT. Varnion Technology Semesta 
+111.68.125.231/32
