@@ -10,6 +10,12 @@
 180.96.0.0/10
 # 61.147.15.65
 61.147.0.0/16
+# 114.217.183.12
+114.216.0.0/13
+# 218.92.0.56
+218.92.0.0/16
+# 58.213.93.231
+58.208.0.0/16
 ## China Shanghai China Unicom Shanghai Province Network
 210.0.0.0/8
 ## China Shanghai Chinanet Shanghai Province Network
@@ -137,11 +143,6 @@
 ## Shanghai Information Network Co. Ltd.
 # 103.13.245.181
 103.13.244.0/22
-## ChinaNet Jiangsu Province Network
-# 114.217.183.12
-114.216.0.0/13
-# 218.92.0.56
-218.92.0.0/16
 ## Aliyun Computing Co. Ltd
 # 39.98.156.134
 39.96.0.0/13
