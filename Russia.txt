@@ -71,3 +71,6 @@ JSC Registrator of Domains
 ## Home Internet Ltd
 # 46.66.164.51
 146.66.160.0/20
+## CityTelecom LLC
+# 31.28.27.97
+31.28.27.0/24
