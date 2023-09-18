@@ -42,3 +42,5 @@
 ## VipTurbo Comercio & Servicos de Informatica Ltda 
 # 191.36.149.136
 191.36.144.0/20
+# Universidade Federal da Bahia
+200.128.56.249/32
