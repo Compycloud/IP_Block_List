@@ -23,3 +23,5 @@
 ## Soroush Rasanheh Company Ltd
 # 81.12.39.198
 81.12.39.0/24
+## Teknosos Bilisim Hizmetleri ve Tic. Ltd. Sti.
+212.64.193.37/32
