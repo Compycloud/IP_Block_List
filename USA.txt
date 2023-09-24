@@ -275,3 +275,5 @@ Liquid Web L.L.C
 198.91.30.26/32
 ## Input Output Flood LLC
 148.163.85.150/32
+## Verizon Business
+71.105.122.148/32
