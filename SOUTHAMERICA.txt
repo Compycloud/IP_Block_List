@@ -1,5 +1,8 @@
 ## Locaweb Servicos de Internet S/A
 191.252.7.152/32
+189.126.112.74/32
+# 191.252.184.157
+191.252.0.0/16
 ## CTC. Corp S.A.
 # MAIL
 190.171.169.139/32
@@ -11,9 +14,6 @@
 ## Leandro Goncalves de Amarante
 # 177.53.141.237
 177.53.141.236/30
-## Locaweb Servicos de Internet S/A
-# 191.252.184.157
-191.252.0.0/16
 ## Redehost Internet Ltda. 
 # 177.55.118.104
 177.55.96.0/19
