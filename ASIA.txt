@@ -258,3 +258,7 @@
 31.214.169.117/32
 ## PT Media Sarana Akses
 103.217.209.85/32
+## Bac Giang Department of Information and Communications
+# 103.164.245.233
+103.164.244.0/16
+103.164.244.0/15
