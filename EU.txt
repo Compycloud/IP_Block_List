@@ -276,6 +276,7 @@
 46.4.34.211/32
 46.4.136.77/32
 ## Mikhail Tonkonog
+194.28.226.64/32
 ## domaindiscount24.net
 194.28.226.36/32
 ## Host Europe GmbH
