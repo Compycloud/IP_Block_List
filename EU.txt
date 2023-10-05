@@ -331,3 +331,5 @@
 89.161.254.227/32
 ## Progreso.pl SP Z O.O
 77.65.212.223/32
+## bitebyte.pl Maciej Kupiec
+185.42.221.126/32
