@@ -74,6 +74,3 @@ JSC Registrator of Domains
 ## CityTelecom LLC
 # 31.28.27.97
 31.28.27.0/24
-## Mikhail Tonkonog
-# 194.28.226.87
-194.28.226.0/24
