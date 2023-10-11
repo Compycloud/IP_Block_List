@@ -278,4 +278,5 @@ Liquid Web L.L.C
 ## Verizon Business
 71.105.122.148/32
 ## Rackspace Inc.
-198.61.254.6/32 
+198.61.254.6/32
+198.61.254.40/32
