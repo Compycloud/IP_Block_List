@@ -75,3 +75,6 @@ JSC Registrator of Domains
 ## CityTelecom LLC
 # 31.28.27.97
 31.28.27.0/24
+## Avguro Technologies Ltd. Hosting Service Provider
+# 217.107.34.94
+217.107.0.0/18
