@@ -7,3 +7,5 @@
 201.86.0.0/16
 ## Campaign Monitor Pty Ltd
 203.55.21.145/32
+## Managed Data Solutions Pty Ltd
+103.8.29.103/32
