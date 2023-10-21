@@ -265,3 +265,6 @@
 ## Cloud Service
 # 27.254.235.4
 27.254.0.0/16
+## Vietnam Eastern Sun Joint Stock Company
+# 103.139.102.153
+103.139.102.0/24
