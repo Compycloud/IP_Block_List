@@ -268,3 +268,6 @@
 ## Vietnam Eastern Sun Joint Stock Company
 # 103.139.102.153
 103.139.102.0/24
+## MDRAS MY
+# 103.198.69.199
+103.198.69.0/24
