@@ -230,3 +230,6 @@
 ## Huawei Public Cloud Service
 # 114.115.207.70
 114.115.128.0/17
+## China Unicom Hebei Province Network
+# 110.249.178.166
+110.240.0.0/12
