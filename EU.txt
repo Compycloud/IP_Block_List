@@ -352,3 +352,5 @@
 81.209.169.77/32
 ## DELTA Fiber Nederland B.V.
 163.158.50.171/32
+## Data Space Sp. z o.o.
+185.170.105.215/32
