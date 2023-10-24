@@ -344,5 +344,3 @@
 51.159.37.0/24
 # Hosterion SRL
 185.250.106.48/32
-# Expert Solutions Georgia LLC
-185.110.92.18/32
