@@ -233,3 +233,6 @@
 ## China Unicom Hebei Province Network
 # 110.249.178.166
 110.240.0.0/12
+## China Unicom Shandong Province Network
+# 221.2.140.174
+221.2.0.0/16
