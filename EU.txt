@@ -349,3 +349,5 @@
 185.110.92.18/32
 ## euNetworks GmbH
 81.209.169.77/32
+## DELTA Fiber Nederland B.V.
+163.158.50.171/32
