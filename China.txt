@@ -248,3 +248,13 @@
 ## China United Network Communications Corporation Limited
 # 116.131.151.186
 116.128.0.0/10
+## ChinaNet Jiangxi Province Network
+# 111.74.8.16
+111.72.0.0/16
+111.73.0.0/16
+111.74.0.0/16
+111.75.0.0/16
+111.76.0.0/16
+111.77.0.0/16
+111.78.0.0/16
+111.79.0.0/16
