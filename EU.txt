@@ -347,3 +347,5 @@
 185.250.106.48/32
 # Expert Solutions Georgia LLC
 185.110.92.18/32
+## euNetworks GmbH
+81.209.169.77/32
