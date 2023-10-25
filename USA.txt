@@ -291,3 +291,6 @@
 ## Academy of Internet Research Limited Liability Company
 # 104.156.155.5
 104.156.155.0/24
+# Palo Alto Networks Inc
+# 205.210.31.56
+205.210.31.0/24
