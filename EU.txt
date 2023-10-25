@@ -269,6 +269,8 @@
 139.28.221.187/32
 139.28.221.219/32
 139.28.221.231/32
+# 185.94.166.2
+185.94.166.0/24
 ## Hostkey B.V.
 5.39.216.148/32
 ## Ionis Group - Ionis Schools of Technology and Management SAS
