@@ -54,3 +54,6 @@
 170.83.218.227/32
 ## Telmex Colombia S.A. 
 181.61.206.237/32
+## Pogliotti & Pogliotti Construcciones S.A.
+# 190.123.90.180
+190.123.80.0/20
