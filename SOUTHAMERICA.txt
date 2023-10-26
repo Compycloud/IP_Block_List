@@ -57,3 +57,6 @@
 ## Pogliotti & Pogliotti Construcciones S.A.
 # 190.123.90.180
 190.123.80.0/20
+## CBRNET
+# 152.231.17.204
+152.231.16.0/21
