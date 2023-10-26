@@ -93,3 +93,6 @@ JSC Registrator of Domains
 ## PJSC MegaFon
 # 178.176.193.56
 178.176.193.0/24
+## PPPoE Clients Terminations IN
+# 82.208.107.157
+82.208.107.0/24
