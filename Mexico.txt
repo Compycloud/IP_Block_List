@@ -1,0 +1,3 @@
+## Television Internacional S.A. de C.V.
+# 201.172.240.140:58108,Oct,26,16:45:46
+201.172.240.0/21
