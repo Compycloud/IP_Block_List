@@ -1,0 +1,3 @@
+## Cellcom Fixed Line Communication L.P
+# Oct 26 17:44:36 95.35.31.66:54918
+95.35.31.66/32
