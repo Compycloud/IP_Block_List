@@ -90,3 +90,6 @@ JSC Registrator of Domains
 # Unitary Enterprise A1
 # 128.65.52.240
 128.65.48.0/20
+## PJSC MegaFon
+# 178.176.193.56
+178.176.193.0/24
