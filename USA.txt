@@ -290,9 +290,6 @@
 68.168.223.79/32
 ## Academy of Internet Research Limited Liability Company
 # 104.156.155.5
-## Verizon Wireless
-# Oct,26,13:24:13,166.180.0.251:45177
-166.128.0.0/9
 104.156.155.0/24
 # Palo Alto Networks Inc
 # 205.210.31.56
@@ -303,3 +300,6 @@
 45.87.196.170/32
 ## TierPoint LLC
 207.210.228.93/32
+## Verizon Wireless
+# Oct,26,13:24:13,166.180.0.251:45177
+166.128.0.0/9
