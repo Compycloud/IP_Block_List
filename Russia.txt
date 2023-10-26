@@ -87,3 +87,6 @@ JSC Registrator of Domains
 ## JSC TKT
 # 87.237.117.183
 87.237.112.0/21
+# Unitary Enterprise A1
+# 128.65.52.240
+128.65.48.0/20
