@@ -1,0 +1,3 @@
+## Vietnam Posts and Telecommunications Group
+# 113.161.65.33
+113.161.64.0/19
