@@ -96,12 +96,6 @@
 36.128.0.0/11
 # 120.224.26.155
 120.224.0.0/12
-## ChinaNet Guangdong Province Network
-## 59.36.173.146
-59.32.0.0/13
-59.40.0.0/16
-59.41.0.0/16
-59.42.0.0/16 
 ## ChinaNet Anhui Province Network 
 # 60.170.109.55
 60.166.0.0/12
@@ -160,9 +154,6 @@
 ## Aliyun Computing Co. Ltd
 # 39.98.156.134
 39.96.0.0/13
-## ChinaNet Guangdong Province Network
-# 183.13.200.241
-183.0.0.0/10
 ## Diyixian.com Limited
 # 152.104.9.12
 152.104.9.0/24
@@ -199,6 +190,17 @@
 ## ChinaNet Guangdong Province Network
 # 113.116.153.45
 113.112.0.0/13
+# 183.13.200.241
+183.0.0.0/10
+# 14.18.119.55
+14.16.0.0/12
+## 59.36.173.146
+59.32.0.0/13
+59.40.0.0/16
+59.41.0.0/16
+59.42.0.0/16
+# 125.93.3.27
+125.88.0.0/13
 ## China Unicom Neimeng Province Network
 # 58.18.93.50
 58.18.0.0/16
@@ -207,9 +209,6 @@
 ## ChinaNet Sichuan Province Network
 # 182.138.158.30
 182.128.0.0/12
-## ChinaNet Guangdong Province Network
-# 14.18.119.55
-14.16.0.0/12
 ## China Unicom Innermongolia Province Network
 # 1.31.80.166
 1.24.0.0/13
