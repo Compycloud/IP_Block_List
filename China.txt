@@ -216,6 +216,10 @@
 ## ChinaNet Shanghai Province Network
 # 101.227.1.196
 101.224.0.0/13
+# 61.171.52.88
+61.169.0.0/16
+61.170.0.0/16
+61.171.0.0/16
 ## China Unicom Jiangsu Province Network
 # 112.84.178.25
 112.80.0.0/13
