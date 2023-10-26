@@ -298,3 +298,5 @@
 37.221.92.122/32
 # Emarsys Emarketing Systems GmbH
 45.87.196.170/32
+## TierPoint LLC
+207.210.228.93/32
