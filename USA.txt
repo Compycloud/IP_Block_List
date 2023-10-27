@@ -305,3 +305,6 @@
 166.128.0.0/9
 ## Frontier Communications Corporation
 47.190.106.42/32
+## Charter Communications Inc
+# Oct 27 19:35:47 68.173.232.83:35565
+68.172.0.0/14
