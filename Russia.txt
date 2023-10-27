@@ -99,3 +99,6 @@ JSC Registrator of Domains
 ## Rial Com JSC
 # Oct 27 19:54:46 83.220.184.188:47745
 83.220.184.0/21
+## OJSC Volgainformnet
+# Oct 27 19:35:25 185.134.150.38:58436
+185.134.148.0/22
