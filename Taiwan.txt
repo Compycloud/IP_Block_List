@@ -10,3 +10,7 @@
 ## Asia Pacific Telecom Co. Ltd.
 # Oct 27 22:29:45 219.91.32.178:43010
 219.91.0.0/17
+## Hoshin Multimedia Center Inc
+# Oct 27 22:41:36 58.115.53.81:58861
+58.114.0.0/16
+58.114.0.0/16
