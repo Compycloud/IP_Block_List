@@ -96,3 +96,6 @@ JSC Registrator of Domains
 ## PPPoE Clients Terminations IN
 # 82.208.107.157
 82.208.107.0/24
+## Rial Com JSC
+# Oct 27 19:54:46 83.220.184.188:47745
+83.220.184.0/21
