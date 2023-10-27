@@ -1,3 +1,6 @@
 ## Totus Telecomunicacoes Ltda
 # 45.5.159.34
 45.5.156.0/22
+## JP Providers Eirelli
+# Oct 27 23:01:39 191.5.225.24:52646
+191.5.224.0/21
