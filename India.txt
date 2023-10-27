@@ -6,3 +6,6 @@
 ## RailTel Corporation is an Internet Service Provider
 # Oct 27 22:12:57 137.59.94.20:59362
 137.59.94.0/24
+## Gigantic Infotel Pvt Ltd
+# Oct 27 22:41:14 103.59.196.14:59676
+103.59.196.0/24
