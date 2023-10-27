@@ -1,3 +1,6 @@
 ## Vietnam Posts and Telecommunications Group
 # 113.161.65.33
 113.161.64.0/19
+## Viettel Group
+# Oct 27 22:25:03 115.77.97.146:42913
+115.72.0.0/13
