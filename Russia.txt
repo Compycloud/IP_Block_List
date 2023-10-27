@@ -104,3 +104,5 @@ JSC Registrator of Domains
 ## OJSC Volgainformnet
 # Oct 27 19:35:25 185.134.150.38:58436
 185.134.148.0/22
+## OOO Network of Data-Centers Selectel
+37.200.66.0/23
