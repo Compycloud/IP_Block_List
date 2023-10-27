@@ -317,3 +317,6 @@
 ## China Unicom Gansu Province Network
 # Oct 27 20:50:49 124.152.181.85:42948
 124.152.0.0/16
+## China Unicom Liaoning Province Network
+# Oct 27 21:44:47 124.93.12.184:61489
+124.93.0.0/16
