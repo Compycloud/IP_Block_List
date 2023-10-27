@@ -303,3 +303,5 @@
 ## Verizon Wireless
 # 166.180.0.251:45177,Oct,26,13:24:13,251.qarestr.sub-166-180-0.myvzw.com
 166.128.0.0/9
+## Frontier Communications Corporation
+47.190.106.42/32
