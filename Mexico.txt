@@ -1,6 +1,8 @@
 ## Television Internacional S.A. de C.V.
 # 201.172.240.140:58108,Oct,26,16:45:46
 201.172.240.0/21
+# Oct 28 11:54:31 201.166.207.118:53110
+201.166.192.0/19
 ## Universidad Nacional Autonoma de Mexico
 # Oct 26 18:32:33 132.248.253.250:59680
 132.248.0.0/16
