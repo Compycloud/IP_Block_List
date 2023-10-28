@@ -4,3 +4,6 @@
 ## JL. Lingkungan Kayu Manis RT 08 RW
 # Oct 27 21:27:34 103.92.39.219:41958 
 103.92.39.0/24
+## PT Telkom Indonesia
+# Oct 28 11:33:01 118.97.98.2:28047
+118.97.98.0/24
