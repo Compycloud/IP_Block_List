@@ -359,3 +359,6 @@
 ## NO.9 Xilingyilu Stree Yichang
 # Oct 28 11:38:25 119.36.242.132:52674
 119.36.0.0/16
+## SmarTone Mobile Communications Limited
+# Oct 28 11:15:52 121.202.194.65:55475
+121.202.128.0/17
