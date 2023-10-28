@@ -1,3 +1,6 @@
 ## Sefroyek Pardaz Engineering Co. Ltd
 # Oct 27 23:01:43 185.112.148.65:47971
 185.112.148.0/24
+## Faraso Samaneh Pasargad Ltd.
+# Oct 28 20:50:27 5.63.13.206:40536
+5.63.13.0/24
