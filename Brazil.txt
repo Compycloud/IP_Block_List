@@ -13,3 +13,6 @@
 ## Telefonica Brasil S.A
 # Oct 28 10:44:35 186.201.54.90:35176
 186.200.0.0/15
+## Flightparts Servicos de Reparacao de Motores Eirel
+# Oct 28 12:14:16 167.250.31.126:38635
+167.250.31.120/29
