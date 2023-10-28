@@ -4,3 +4,6 @@
 ## JP Providers Eirelli
 # Oct 27 23:01:39 191.5.225.24:52646
 191.5.224.0/21
+## Brasil Telecom Comunicacao Multimidia S.A
+# Oct 28 11:46:44 201.59.211.214:60413
+201.58.0.0/15
