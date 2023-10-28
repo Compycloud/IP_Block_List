@@ -7,3 +7,6 @@
 ## Brasil Telecom Comunicacao Multimidia S.A
 # Oct 28 11:46:44 201.59.211.214:60413
 201.58.0.0/15
+## Centrosulnet Informatica Eireli
+# Oct 28 10:45:37 45.225.123.45:40744
+45.225.123.0/25
