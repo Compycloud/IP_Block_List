@@ -4,3 +4,5 @@
 ## MB Ipumanija
 # Oct 27 22:12:14 45.8.217.52:41814
 45.8.217.0/24
+## velia.net Internetdienste GmbH
+151.106.7.75/32
