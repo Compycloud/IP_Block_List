@@ -10,3 +10,6 @@
 ## Centrosulnet Informatica Eireli
 # Oct 28 10:45:37 45.225.123.45:40744
 45.225.123.0/25
+## Telefonica Brasil S.A
+# Oct 28 10:44:35 186.201.54.90:35176
+186.200.0.0/15
