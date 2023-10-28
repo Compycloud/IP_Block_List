@@ -7,6 +7,9 @@
 106.201.243.0/24
 # Oct 28 12:48:04 122.165.208.163:59599
 122.165.208.0/24
+## Bharti Infotel Ltd.
+# 125.20.207.154
+125.20.207.0/24
 ## NA
 122.160.133.0/24
 ## RailTel Corporation is an Internet Service Provider
