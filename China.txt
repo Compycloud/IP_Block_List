@@ -282,6 +282,8 @@
 ## China Unicom Shandong Province Network
 # 221.2.140.174
 221.2.0.0/16
+# Oct 28 12:01:00 60.214.209.221:62970
+60.208.0.0/13
 ## ChinaNet Yunnan Province Network
 # 222.219.182.59
 222.219.0.0/16
