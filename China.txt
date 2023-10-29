@@ -410,3 +410,8 @@
 ## China Unicom Zhejiang Province Network
 # Oct 29 15:02:23 124.160.108.174:51620
 124.160.0.0/16
+## Shandong Telecom Corporation
+# Oct 29 15:11:49 222.175.39.190:48666
+222.173.0.0/16
+222.173.0.0/16
+222.173.0.0/16
