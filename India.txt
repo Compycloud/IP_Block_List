@@ -41,3 +41,6 @@
 ## World Phone Internet Services Pvt Ltd
 # Oct 29 15:36:47 111.235.64.99:43944
 111.235.64.0/24
+## Lucas Indian Services
+# Oct 29 18:18:35 203.145.138.134:42826
+203.145.138.0/24
