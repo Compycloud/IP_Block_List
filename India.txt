@@ -30,3 +30,6 @@
 ## City Online Services Limited
 # Oct 28 14:10:58 202.62.89.98:59722
 202.62.89.0/24
+## AirDesign Broadcast Media Pvt Ltd
+# Oct 29 13:11:47 103.194.243.187:53905
+103.194.243.0/24
