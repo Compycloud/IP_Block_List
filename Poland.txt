@@ -1,3 +1,6 @@
 ## Innowacyjne Rozwiazania Informatyczne.pl sp. z o.o.
 # SERVER-WEBAPP Zyxel unauthenticated IKEv2 command injection attempt
 193.34.212.0/22
+## Polkomtel Sp. z o.o.
+# Oct 29 15:52:52 31.0.164.14:60762
+31.0.0.0/15
