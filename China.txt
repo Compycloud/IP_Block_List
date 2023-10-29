@@ -442,3 +442,9 @@
 ## China Unicom Anhui Province Network
 # Oct 29 17:41:18 36.32.188.30:48694
 36.32.0.0/14
+## Jtekt (China) Investment Co. Ltd.Hangzhou Branch
+# Oct 29 17:41:16 183.129.132.94:33941
+183.129.132.92/32
+183.129.132.93/32
+183.129.132.94/32
+183.129.132.95/32
