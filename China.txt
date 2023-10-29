@@ -253,6 +253,8 @@
 ## China Unicom Innermongolia Province Network
 # 1.31.80.166
 1.24.0.0/13
+# Oct 29 15:17:46 110.17.162.70:37026
+110.16.0.0/14
 ## ChinaNet Shanghai Province Network
 # 101.227.1.196
 101.224.0.0/13
