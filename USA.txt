@@ -332,3 +332,6 @@
 ## Hotwire Fision
 #	Oct 29 17:31:56 170.250.112.228:34556
 170.250.112.228/32
+## North Penn Telephone/Community Cable Corp of Pen
+# Oct 29 17:22:37 38.77.40.192:50931
+38.77.40.192/32
