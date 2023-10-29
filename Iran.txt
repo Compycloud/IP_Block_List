@@ -4,3 +4,6 @@
 ## Faraso Samaneh Pasargad Ltd.
 # Oct 28 20:50:27 5.63.13.206:40536
 5.63.13.0/24
+## Didehban Net Company PJS
+# Oct 29 15:01:49 46.249.124.234:57977
+46.249.124.0/23
