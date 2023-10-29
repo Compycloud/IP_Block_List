@@ -269,6 +269,8 @@
 ## China Unicom Jiangsu Province Network
 # 112.84.178.25
 112.80.0.0/13
+## Oct 29 14:15:43 122.96.63.50:33742
+122.96.0.0/15
 ## The zhenjiang science and technology Bureau
 # 218.3.137.193
 218.3.137.192/32
