@@ -466,3 +466,5 @@
 ## ChinaNet Liaoning Province Network
 Oct 29 17:33:25 59.47.131.200:53068
 59.44.0.0/14
+## China Unicom Jiangxi Province Network
+58.17.0.0/17
