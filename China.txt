@@ -407,3 +407,6 @@
 ## China Unicom Guizhou Province Network
 # Oct 29 15:01:28 58.16.201.52:58316
 58.16.0.0/16
+## China Unicom Zhejiang Province Network
+# Oct 29 15:02:23 124.160.108.174:51620
+124.160.0.0/16
