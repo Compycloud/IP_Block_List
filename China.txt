@@ -404,3 +404,6 @@
 ## ChinaNet Fujian Province Network
 # Oct 29 14:50:14 120.35.20.65:40102
 120.32.0.0/13
+## China Unicom Guizhou Province Network
+# Oct 29 15:01:28 58.16.201.52:58316
+58.16.0.0/16
