@@ -1,6 +1,7 @@
 ## China Beijing Tencent Cloud Computing (beijing) Co. Ltd
 193.112.0.0/16
 119.45.0.0/16
+101.34.0.0/15
 ## China Chengdu Chinanet Sichuan Province Network
 171.208.0.0/12
 ## China Luoyang China Mobile Communications Corporation
