@@ -439,3 +439,6 @@
 ## China Unicom Shan1Xi Province Network
 # Oct 29 15:36:24 124.166.246.67:40437
 124.164.0.0/14
+## China Unicom Anhui Province Network
+# Oct 29 17:41:18 36.32.188.30:48694
+36.32.0.0/14
