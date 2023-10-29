@@ -9,3 +9,6 @@
 ## Servicio Y Equipo en Telefonia Internet Y TV S.A. de C.V.
 # Oct 27 20:32:20 200.77.147.5:34357
 200.77.144.0/20
+## Cablemas Telecomunicaciones SA de CV
+# Oct 29 17:10:42 177.236.145.195:51576
+177.236.144.0/20
