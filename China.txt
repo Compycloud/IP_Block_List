@@ -309,6 +309,8 @@
 ## China Unicom Hebei Province Network
 # 110.249.178.166
 110.240.0.0/12
+# Oct 29 18:04:51 221.195.22.188:59961
+221.195.0.0/16
 # Oct 28 10:12:23 121.17.250.50:58688
 121.16.0.0/13
 ## China Unicom Shandong Province Network
