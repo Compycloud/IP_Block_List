@@ -493,3 +493,6 @@ Oct 29 17:33:25 59.47.131.200:53068
 ## Hong Kong Telecommunications (HKT) Limited
 # Oct 30 02:12:24 116.48.145.126:61641		
 116.48.128.0/19
+## ChinaNet Shaanxi Province Network
+# Oct 30 20:04:37 113.137.25.14:44606
+113.136.0.0/12
