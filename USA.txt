@@ -337,3 +337,7 @@
 ## North Penn Telephone/Community Cable Corp of Pen
 # Oct 29 17:22:37 38.77.40.192:50931
 38.77.40.192/32
+## Hurricane Electric LLC
+#	Oct 30 18:12:37 184.105.139.105:37705
+# Oct 30 18:12:29 184.105.139.109:24839
+184.104.0.0/15
