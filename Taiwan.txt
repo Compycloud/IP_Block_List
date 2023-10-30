@@ -17,3 +17,6 @@
 ## Far Eastone Telecommunication Co. Ltd.
 # Oct 28 10:44:58 110.25.99.62:52458
 110.24.0.0/13
+## New Century Infocomm Tech. Co. Ltd. 
+# Oct 30 00:55:58 106.105.7.46:34551
+106.104.0.0/14
