@@ -20,6 +20,8 @@
 ## New Century Infocomm Tech. Co. Ltd. 
 # Oct 30 00:55:58 106.105.7.46:34551
 106.104.0.0/14
+# Oct 31 13:23:55 175.180.129.87:37344
+175.180.0.0/14
 ## Taiwan Intelligent Fiber Optic Network Co. Ltd.
 # Oct 30 19:14:05 111.125.129.168:5770
 111.125.128.0/21
