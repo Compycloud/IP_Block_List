@@ -10,3 +10,6 @@
 ## Pishgaman Toseeh Ertebatat Company
 # Oct 30 20:24:13 5.202.248.46:46846
 5.202.240.0/20
+## Homaye Jahan Nama Co.
+# 212.86.72.39
+212.86.72.0/24
