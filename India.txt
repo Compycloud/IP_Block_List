@@ -72,3 +72,6 @@
 ## China Unicom Shandong Province Network
 # Oct 31 09:05:40 119.167.104.202:14179
 119.164.0.0/14
+## PCCW Limited
+# Oct 31 09:04:38 223.197.208.79:57799
+223.197.192.0/19
