@@ -80,3 +80,6 @@
 ## Gigantic Internet Services Pvt. Ltd.
 # Oct 31 10:15:46 43.228.220.21:41679
 43.228.220.0/24
+## Catla IT and Engg.Co.Pvt.Ltd.
+# Oct 31 13:46:40 103.103.53.44:59368
+103.103.53.0/24
