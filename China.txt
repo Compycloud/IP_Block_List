@@ -198,6 +198,8 @@
 ## China Unicom Henan Province Network
 # 42.236.10.125 42.236.10.114
 42.224.0.0/12
+# Oct 31 16:51:42	218.29.239.174:36753
+218.28.0.0/15
 ## China Unicom Beijing Province Network
 # 111.207.155.211
 111.192.0.0/12
