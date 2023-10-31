@@ -83,3 +83,6 @@
 ## Catla IT and Engg.Co.Pvt.Ltd.
 # Oct 31 13:46:40 103.103.53.44:59368
 103.103.53.0/24
+# Atria Convergence Technologies Pvt. Ltd.
+# Oct 31 16:40:29 106.51.128.170:42798
+106.51.128.0/22
