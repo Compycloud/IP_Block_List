@@ -357,3 +357,6 @@
 ## Buckeye Cablevision Inc.
 # Oct 31 16:57:25 199.191.112.178:51315
 199.191.112.0/21
+## Comcast Cable Communications LLC
+# Oct 31 17:01:27 50.220.210.121:63079
+50.128.0.0/9
