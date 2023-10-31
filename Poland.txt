@@ -4,3 +4,6 @@
 ## Polkomtel Sp. z o.o.
 # Oct 29 15:52:52 31.0.164.14:60762
 31.0.0.0/15
+## Orange Polska Spolka Akcyjna
+# Oct 31 13:59:04 83.12.204.243:60987
+83.8.0.0/13
