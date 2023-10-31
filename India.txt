@@ -88,3 +88,6 @@
 # Atria Convergence Technologies Pvt. Ltd.
 # Oct 31 16:40:29 106.51.128.170:42798
 106.51.128.0/22
+## Softcrop IT
+# Nov 1 00:02:39 103.147.248.44:37750
+103.147.248.0/24
