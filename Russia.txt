@@ -67,6 +67,8 @@
 # 93.189.41.90
 # 93.189.46.162
 93.189.44.0/22
+# 93.189.41.207
+93.189.40.0/23
 # Kaspersky Lab Switzerland GmbH
 # 93.159.230.87
 93.159.230.0/23
@@ -82,9 +84,6 @@
 ## Avguro Technologies Ltd. Hosting Service Provider
 # 217.107.34.94
 217.107.0.0/18
-## Limited Liability Company NTCOM
-# 93.189.41.207
-93.189.40.0/23
 ## PJSC Vimpelcom
 # 194.186.138.214
 194.186.138.0/24
