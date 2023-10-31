@@ -69,3 +69,6 @@
 ## Sify Limited
 # Oct 30 20:24:35 221.134.148.177:49810
 221.134.148.0/24
+## China Unicom Shandong Province Network
+# Oct 31 09:05:40 119.167.104.202:14179
+119.164.0.0/14
