@@ -1,3 +1,6 @@
 ## Optix Pakistan (Pvt.) Limited
 # Oct 31 13:24:25 43.251.255.86:40072
 43.251.255.0/24
+## Pakistan Telecommunication Company Limited
+# Oct 31 23:50:02 59.103.231.91:51721
+59.103.231.0/24
