@@ -547,3 +547,6 @@ Oct 29 17:33:25 59.47.131.200:53068
 ## China International Business Limited
 # Oct 31 17:01:58 103.137.150.244:51671
 103.137.150.0/24
+## ChinaNet Xinjiang Province Network
+# Oct 31 17:03:57 120.71.199.46:58394
+120.68.0.0/14
