@@ -1,3 +1,6 @@
 ## Telus Communications Inc.
 # Oct 28 10:41:35 99.199.72.146:41635
 99.199.0.0/16
+## The North Frontenac Telephone Corporation Limited
+# Oct 31 13:23:57 192.24.46.55:35147
+192.24.32.0/19
