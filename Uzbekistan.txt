@@ -1,0 +1,3 @@
+## Uzbektelekom Joint Stock Company
+# Oct 31 17:54:36 213.230.65.20:39884
+213.230.65.0/24
