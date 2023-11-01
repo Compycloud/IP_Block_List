@@ -360,3 +360,6 @@
 ## Comcast Cable Communications LLC
 # Oct 31 17:01:27 50.220.210.121:63079
 50.128.0.0/9
+## T-Mobile USA Inc.
+# Oct 31 22:42:52 65.76.238.3:34480
+65.76.0.0/16
