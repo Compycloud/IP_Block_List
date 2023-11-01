@@ -452,6 +452,8 @@
 ## China Unicom Liaoning Province Network
 # Oct 27 21:44:47 124.93.12.184:61489
 124.93.0.0/16
+# Oct 31 22:49:56 124.94.137.46:37708
+124.92.0.0/14
 ## ChinaNet Neimenggu Province Network
 # Oct 27 21:45:26 1.180.228.194:35728
 1.180.0.0/16
