@@ -577,3 +577,6 @@ Oct 29 17:33:25 59.47.131.200:53068
 ## ChinaNet Hunan Province Network
 # Oct 31 23:57:38 218.76.146.176:54198
 218.76.144.0/20
+## Shanghai UCloud Information Technology Company Limited
+# Oct 31 22:52:45 117.50.175.83:44226
+117.50.0.0/16
