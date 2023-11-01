@@ -4,3 +4,6 @@
 ## Pakistan Telecommunication Company Limited
 # Oct 31 23:50:02 59.103.231.91:51721
 59.103.231.0/24
+## Comsats
+# Nov 1 10:54:17 203.124.61.141:36477
+203.124.61.0/24
