@@ -36,3 +36,6 @@
 # Vero Internet
 # Oct 31 16:41:51 186.235.193.57:49189
 186.235.192.0/20
+## Corporativa Telecomunicacoes Eireli ME
+# Nov 1 11:43:29 131.161.105.70:55342
+131.161.104.0/22
