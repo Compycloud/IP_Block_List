@@ -36,6 +36,11 @@
 222.184.0.0/13
 #	Oct 31 23:22:17 58.215.20.122:30886
 58.208.0.0/12
+# Nov 1 11:43:13 	218.94.104.180:55423
+218.90.0.0/14
+218.92.0.0/16
+218.93.0.0/16
+218.94.0.0/16
 ## China Shanghai China Unicom Shanghai Province Network
 210.0.0.0/8
 ## China Shanghai Chinanet Shanghai Province Network
