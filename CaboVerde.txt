@@ -1,3 +1,4 @@
 ## For XDSL and FTTH Residential Customers
 # Oct 31 13:08:49 165.90.113.238:57399
 165.90.112.0/20
+165.90.96.0/20
