@@ -14,3 +14,6 @@
 ## PT Indopratama Teleglobal
 # Nov 1 11:29:40 202.55.166.154:48156
 202.55.160.0/20
+## PT Telkom Satelit Indonesia
+# Nov 1 13:48:28 203.99.113.226:36798
+203.99.96.0/19
