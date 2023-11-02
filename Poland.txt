@@ -7,3 +7,5 @@
 ## Orange Polska Spolka Akcyjna
 # Oct 31 13:59:04 83.12.204.243:60987
 83.8.0.0/13
+## AirCity Krzysztof Janukowicz
+91.235.23.77/32
