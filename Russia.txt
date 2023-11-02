@@ -170,3 +170,6 @@
 ## IGRA-Service LLC
 # Nov 2 13:39:53 185.103.24.114:50098
 185.103.24.0/23
+## PJSC Moscow City Telephone Network
+# Nov 2 12:38:24 95.165.194.226:40366
+95.165.0.0/16
