@@ -368,3 +368,6 @@
 ## Newfold Digital Inc.
 # 65.254.253.32
 65.254.224.0/19
+## SendGrid Inc.
+# ov 2 14:07:22 198.37.147.189:21530 o1381.shared.klaviyomail.com	
+198.37.147.189/32
