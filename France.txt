@@ -9,3 +9,5 @@
 ## OVH SAS
 51.210.108.143/32
 51.91.204.178/32
+## CTS Computers and Telecommunications Systems SAS
+188.130.25.165/32
