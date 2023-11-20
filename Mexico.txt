@@ -12,3 +12,6 @@
 ## Cablemas Telecomunicaciones SA de CV
 # Oct 29 17:10:42 177.236.145.195:51576
 177.236.144.0/20
+## Axtel S.A.B. de C.V.
+# 207.249.162.125
+207.249.162.125/32
