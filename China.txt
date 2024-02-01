@@ -93,6 +93,8 @@
 43.142.0.0/16
 # 43.129.35.207
 43.129.32.0/19
+# 49.51.36.241 USA Proxy
+49.51.32.0/19
 ## ChinaNet Chongqing Province Network 
 219.151.128.0/17
 219.152.0.0/16
@@ -654,6 +656,3 @@ Oct 29 17:33:25 59.47.131.200:53068
 ## China Unicom Neimenggu Province Network
 # Nov 1 15:39:46 61.134.108.86:57654
 61.134.96.0/19
-## Tencent Cloud Computing (Beijing) Co. Ltd.
-# 49.51.36.241 USA Proxy
-49.51.32.0/19
