@@ -173,3 +173,6 @@
 ## PJSC Moscow City Telephone Network
 # Nov 2 12:38:24 95.165.194.226:40366
 95.165.0.0/16
+## Power Servers Role Org
+# 193.109.84.159
+193.109.84.0/24
