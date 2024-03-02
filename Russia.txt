@@ -86,6 +86,8 @@
 ## Avguro Technologies Ltd. Hosting Service Provider
 # 217.107.34.94
 217.107.0.0/18
+# 81.177.141.182
+81.177.128.0/19
 ## PJSC Vimpelcom
 # 194.186.138.214
 194.186.138.0/24
