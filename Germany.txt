@@ -7,3 +7,5 @@
 ## myLoc managed IT AG
 # 213.202.218.21
 213.202.192.0/18
+## DigitalOcean LLC
+68.183.216.251/32
