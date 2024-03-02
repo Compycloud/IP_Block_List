@@ -17,3 +17,6 @@
 ## PT Telkom Satelit Indonesia
 # Nov 1 13:48:28 203.99.113.226:36798
 203.99.96.0/19
+## PT Cyberindo Aditama
+# 202.158.43.148
+202.158.32.0/19
