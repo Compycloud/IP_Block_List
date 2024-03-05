@@ -12,3 +12,6 @@
 ## Rustelekom TK Limited Liability Company
 # 185.17.120.193
 185.17.120.0/23
+## Aleksandr Valerevich Mokhonko
+# 87.251.87.134
+87.251.87.0/24
