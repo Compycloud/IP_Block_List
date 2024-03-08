@@ -13,3 +13,6 @@
 ## Homaye Jahan Nama Co.
 # 212.86.72.39
 212.86.72.0/24
+## Institute for Research in Fundamental Sciences
+# 194.225.34.19
+194.225.32.0/22
