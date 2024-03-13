@@ -1,3 +1,6 @@
 ## CAT Telecom Public Company Ltd
 # Nov 1 13:49:03 202.129.35.8:60922
 202.129.32.0/22
+## True Internet Co. Ltd.
+# 171.103.185.162
+171.103.0.0/16
