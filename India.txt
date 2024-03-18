@@ -113,3 +113,6 @@
 ## SS Broadband Services Pvt Ltd
 # Nov 1 14:47:10 103.203.210.119:34436
 103.203.210.0/24
+## Shyam Spectra Pvt Ltd
+# 180.151.240.250
+180.151.240.0/24
