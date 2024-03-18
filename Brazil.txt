@@ -41,3 +41,6 @@
 ## Corporativa Telecomunicacoes Eireli ME
 # Nov 1 11:43:29 131.161.105.70:55342
 131.161.104.0/22
+## SEMCO - Mandaliti e Bueno Servicos de Gestao Ltda
+# 201.48.169.21
+201.48.169.0/25
