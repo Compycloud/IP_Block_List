@@ -16,3 +16,6 @@
 ## Institute for Research in Fundamental Sciences
 # 194.225.34.19
 194.225.32.0/22
+## Noavaran Shabakeh Sabz Mehregan (Ltd.)
+# 5.144.130.202
+5.144.130.0/24
