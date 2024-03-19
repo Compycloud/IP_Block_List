@@ -9,3 +9,6 @@
 ## Portugalmail - Comunicacoes SA 
 # 195.170.168.57
 195.170.168.0/24
+## NOS Madeira Comunicacoes S.A.
+# 213.190.206.67
+213.190.192.0/19
