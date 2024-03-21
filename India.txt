@@ -122,3 +122,6 @@
 ## Netplus Broadband Services Private Limited
 # 210.89.61.66
 210.89.61.0/24
+# Bharat Sanchar Nigam Limited
+# 117.248.28.6
+117.248.16.0/20
