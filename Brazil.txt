@@ -44,3 +44,9 @@
 ## SEMCO - Mandaliti e Bueno Servicos de Gestao Ltda
 # 201.48.169.21
 201.48.169.0/25
+## Locaweb Servicos de Internet S/A
+# 191.252.195.148
+191.252.0.0/16
+## R.R.Comunicacao & Multimidia Eireli
+# 45.238.232.3
+45.238.232.0/22
