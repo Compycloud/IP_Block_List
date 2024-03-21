@@ -6,6 +6,8 @@
 1.12.0.0/14
 140.143.0.0/16
 43.136.0.0/18
+# 43.133.145.230
+43.133.128.0/19
 ## China Chengdu Chinanet Sichuan Province Network
 171.208.0.0/12
 ## China Luoyang China Mobile Communications Corporation
