@@ -119,3 +119,6 @@
 ## Satendra Networks
 # 103.211.17.64
 103.211.17.0/24
+## Netplus Broadband Services Private Limited
+# 210.89.61.66
+210.89.61.0/24
