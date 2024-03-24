@@ -20,3 +20,7 @@
 ## PT Cyberindo Aditama
 # 202.158.43.148
 202.158.32.0/19
+## Indonesia Network Information Center
+# 103.226.138.83
+103.226.138.0/24
+103.226.139.0/24
