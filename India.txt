@@ -125,3 +125,6 @@
 # Bharat Sanchar Nigam Limited
 # 117.248.28.6
 117.248.16.0/20
+## Beam Telecom Pvt Ltd
+# 183.82.96.133
+183.82.96.0/24
