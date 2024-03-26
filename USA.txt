@@ -186,6 +186,7 @@
 18.197.117.45/32
 ## Amazon Technologies Inc.
 34.227.19.103/32
+52.204.132.29/32
 ## Unified Layer
 # Bot network
 # 173.254.64.10
