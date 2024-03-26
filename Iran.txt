@@ -19,3 +19,6 @@
 ## Noavaran Shabakeh Sabz Mehregan (Ltd.)
 # 5.144.130.202
 5.144.130.0/24
+## Asiatech Data Transmission Company
+# 193.151.151.27
+193.151.144.0/20
