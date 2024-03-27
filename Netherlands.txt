@@ -27,3 +27,5 @@
 ## FiberXpress BV
 # 80.82.77.144
 80.82.77.0/24
+# DigitalOcean LLC
+206.189.2.13/32
