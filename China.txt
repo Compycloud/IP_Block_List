@@ -18,6 +18,8 @@
 49.51.32.0/19
 # 43.159.133.39 USA Proxy
 43.159.133.0/24
+# 106.54.208.38
+106.52.0.0/14
 ## China Chengdu Chinanet Sichuan Province Network
 171.208.0.0/12
 ## China Luoyang China Mobile Communications Corporation
