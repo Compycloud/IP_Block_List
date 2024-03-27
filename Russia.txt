@@ -188,3 +188,6 @@
 ## OOO Gruppa Mosline
 # 185.215.61.158
 185.215.60.0/22
+# Regional Multiservice Network Access
+# 95.32.25.54
+95.32.24.0/22
