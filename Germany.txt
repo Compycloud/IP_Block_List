@@ -46,3 +46,6 @@
 # leakix.org
 # scan.leakix.org
 157.90.211.37/32
+## dogado GmbH
+# 128.127.67.90
+128.127.67.0/24
