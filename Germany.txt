@@ -39,3 +39,8 @@
 ## Linode LLC
 139.162.155.225/32
 139.162.141.82/32
+## Hetzner Online GmbH
+# leakix.net
+# leakix.org
+# scan.leakix.org
+157.90.211.37/32
