@@ -15,3 +15,6 @@
 ## CJSC Kolomna-Sviaz TV
 # 5.42.85.242
 5.42.80.0/21
+## Aeza International LTD
+# 77.91.84.54 Zhanna Kambieva
+77.91.84.0/22
