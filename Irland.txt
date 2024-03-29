@@ -1,3 +1,5 @@
 ## MessageGears LLC (clickdimensions.com)
 # 34.245.210.12
 34.245.210.12/32
+## Amazon Data Services Ireland Limited
+34.244.253.84/32
