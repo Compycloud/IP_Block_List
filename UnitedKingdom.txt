@@ -18,3 +18,6 @@
 ## Aeza International LTD
 # 77.91.84.54 Zhanna Kambieva
 77.91.84.0/22
+## DigitalOcean LLC
+# 209.97.180.8
+209.97.180.0/24
