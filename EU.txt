@@ -3,14 +3,6 @@
 212.70.149.0/24
 ## Pptechnology Limited 
 2.57.122.90/32
-## Amazon Data Services Sweden
-13.48.48.73/32
-## Amazon Data Services UK
-3.8.137.163/32
-# WP
-18.133.60.229/32
-18.130.150.108/32
-18.134.93.53/32
 ## Reliable Communications s.r.o.
 # WP
 212.192.24.22/32
