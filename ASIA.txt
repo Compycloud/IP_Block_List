@@ -12,9 +12,6 @@
 # Bad Web Bot
 34.87.94.148/32
 34.64.192.120/32
-## Amazon Data Services Singapore
-# Hacking
-52.221.83.120/32
 ## OVH Hosting, Inc
 51.79.0.0/16
 # Thailand Uninet
