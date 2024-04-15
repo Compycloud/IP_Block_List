@@ -191,3 +191,6 @@
 # Regional Multiservice Network Access
 # 95.32.25.54
 95.32.24.0/22
+## OOO Suntel
+# 87.249.23.130
+87.249.0.0/19
