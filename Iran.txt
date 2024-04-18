@@ -22,3 +22,6 @@
 ## Asiatech Data Transmission Company
 # 193.151.151.27
 193.151.144.0/20
+## AminIDC
+# 45.135.241.228
+45.135.241.0/24
